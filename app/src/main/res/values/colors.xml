@@ -4,4 +4,6 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="twitterBlue">#1896eb</color>
+    <color name="twitterGray">#8c98a4</color>
+    <color name="twitterBlueDark">#2874b9</color>
 </resources>
